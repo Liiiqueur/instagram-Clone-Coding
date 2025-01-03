@@ -3,9 +3,9 @@
 
 # STEP 1
 React 애플리케이션 생성  
-1) `npx create-react-app . --legacy-peer-deps`  
-의존성 충돌을 무시하고, 설치한다.  
-
-2) web-vitals 모듈 설치
+1) 의존성 충돌을 무시하고, 설치한다.  
+`npx create-react-app . --legacy-peer-deps`  
+ 
+2) web-vitals 모듈 설치  
 `npm install web-vitals`  
 3) `npm start`  
