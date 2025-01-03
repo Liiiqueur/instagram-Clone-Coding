@@ -9,3 +9,9 @@ React 애플리케이션 생성
 2) web-vitals 모듈 설치  
 `npm install web-vitals`  
 3) `npm start`  
+
+https://tailwindcss.com/docs/guides/create-react-app  
+위 링크 순서대로~  
+`npm install -D tailwindcss`  
+`npx tailwindcss init`  
+`npm start`
