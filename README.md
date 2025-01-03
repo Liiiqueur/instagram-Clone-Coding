@@ -14,4 +14,5 @@ https://tailwindcss.com/docs/guides/create-react-app
 위 링크 순서대로~  
 `npm install -D tailwindcss`  
 `npx tailwindcss init`  
-`npm start`
+`npm start`  
+`npm i react-router-dom`  
