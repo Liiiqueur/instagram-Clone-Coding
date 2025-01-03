@@ -5,3 +5,5 @@
 React 애플리케이션 생성  
 `npx create-react-app . --legacy-peer-deps`  
 의존성 충돌을 무시하고, 설치한다.
+
+`npm staart`
