@@ -16,3 +16,5 @@ https://tailwindcss.com/docs/guides/create-react-app
 `npx tailwindcss init`  
 `npm start`  
 `npm i react-router-dom`  
+
+`npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion`
